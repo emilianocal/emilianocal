@@ -1,4 +1,4 @@
-# Welcome to my profile!
+# Welcome to my Github page!
 ### I'm a 2nd year PhD student <a href="https://insects.arizona.edu/"> Entomology and Insect Science GIDP</a> at the University of Arizona in Tucson
 
 
