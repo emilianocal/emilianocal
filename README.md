@@ -1,4 +1,11 @@
-## Hi there 👋
+# Welcome to my profile!
+### I'm a 2nd year PhD student <a href="https://insects.arizona.edu/"> Entomology and Insect Science GIDP</a> at the University of Arizona in Tucson
+
+
+## I'm studying contest behavior of the ant <i>Temnothorax rugatulus</i>:
+![rugatulus2-XL](https://github.com/user-attachments/assets/13409c79-9bfd-483e-a921-c3dcc20cb66e)
+(Photo by <a href="https://www.alexanderwild.com/"> Alex Wild</a>
+
 
 <!--
 **emilianocal/emilianocal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
