@@ -1,5 +1,5 @@
 # Welcome to my Github page!
-### I'm a 3rd year PhD student <a href="https://insects.arizona.edu/"> Entomology and Insect Science GIDP</a> at the University of Arizona in Tucson
+### I'm a 4th year PhD candidate <a href="https://insects.arizona.edu/"> Entomology and Insect Science GIDP</a> at the University of Arizona in Tucson
 
 
 ## I'm studying contest behavior of the ant <i>Temnothorax rugatulus</i>:
