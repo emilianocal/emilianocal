@@ -27,7 +27,7 @@ Are you interested in looking at my cv? Please do so [here](./ECA-CV.pdf)!
 
 
 # Thank you for visiting!
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=emilianocal&layout=donut-vertical&langs_count=10&theme=gruvbox)](https://github-stats-extended.vercel.app/api/top-langs?username=emilianocal&layout=donut-vertical&langs_count=10&theme=gruvbox)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=emilianocal&langs_count=4&theme=aura_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=emilianocal&langs_count=4&theme=aura_dark)
 
 <!--
 **emilianocal/emilianocal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
